@@ -1,12 +1,13 @@
 # Design-Project
 SPICE-inspired analogue circuit simulator in C++
 
-Features:
+## Features:
+
   -Transfer Function Analysis
   
   -Basic Newton-Raphson DC Analysis
   
-Supported Components (all idealised models at the moment!):
+## Supported Components (all idealised models at the moment!):
 
   -DC/AC Voltage/Current source
   
@@ -14,4 +15,4 @@ Supported Components (all idealised models at the moment!):
   
   -NPN/PNP BJT, N-MOSFET, P-MOSFET
   
-Imperial College EEE First Year Summer Term 2021 project 
+## Imperial College EEE First Year Summer Term 2021 project 
